@@ -1,0 +1,7 @@
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\bin\Debug\2.Zad_Generic_Interface.exe.config
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\bin\Debug\2.Zad_Generic_Interface.exe
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\bin\Debug\2.Zad_Generic_Interface.pdb
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\obj\Debug\2.Zad_Generic_Interface.csprojResolveAssemblyReference.cache
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\obj\Debug\2.Zad_Generic_Interface.exe
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Generic_Interface\obj\Debug\2.Zad_Generic_Interface.pdb

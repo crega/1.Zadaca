@@ -1,0 +1,8 @@
+C:\Users\Vice\Desktop\1.Dz\1.Zadaca\2.Zad_Interface\bin\Debug\2.Zad_Interface.exe.config
+C:\Users\Vice\Desktop\1.Dz\1.Zadaca\2.Zad_Interface\obj\Debug\2.Zad_Interface.csprojResolveAssemblyReference.cache
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\bin\Debug\2.Zad_Interface.exe.config
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\obj\Debug\2.Zad_Interface.csprojResolveAssemblyReference.cache
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\bin\Debug\2.Zad_Interface.exe
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\bin\Debug\2.Zad_Interface.pdb
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\obj\Debug\2.Zad_Interface.exe
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\2.Zad_Interface\obj\Debug\2.Zad_Interface.pdb

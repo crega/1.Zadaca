@@ -1,0 +1,2 @@
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\4.Zad_Generic_IEnumerable\bin\Debug\4.Zad_Generic_IEnumerable.exe.config
+C:\Users\VicePc\Desktop\visual studio zadaca\1.Dz\1.Zadaca\4.Zad_Generic_IEnumerable\obj\Debug\4.Zad_Generic_IEnumerable.csprojResolveAssemblyReference.cache
